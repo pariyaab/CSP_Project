@@ -4,8 +4,8 @@ Constraint satisfaction problem solver in kakrud game (simple version) are imple
 ## Project Structure
 In this project we have three classes : 
 
- Cell
- Constraint
+ Cell,
+ Constraint,
  Cps
 
 In cell class I modeled every cell as a variable with range 0-9 valid numbers and moreover each cell had an attribute with name type and value 0 or 1. 0 means that this cell should be filled by program and 1 means that this cell is filled now.
